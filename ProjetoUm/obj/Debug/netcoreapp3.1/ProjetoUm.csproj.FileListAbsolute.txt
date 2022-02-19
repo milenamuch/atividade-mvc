@@ -1,0 +1,17 @@
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.csprojAssemblyReference.cache
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.AssemblyInfoInputs.cache
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.AssemblyInfo.cs
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.csproj.CoreCompileInputs.cache
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milena.muchenski\Desktop\ProjetoUm\bin\Debug\netcoreapp3.1\ProjetoUm.exe
+C:\Users\milena.muchenski\Desktop\ProjetoUm\bin\Debug\netcoreapp3.1\ProjetoUm.deps.json
+C:\Users\milena.muchenski\Desktop\ProjetoUm\bin\Debug\netcoreapp3.1\ProjetoUm.runtimeconfig.json
+C:\Users\milena.muchenski\Desktop\ProjetoUm\bin\Debug\netcoreapp3.1\ProjetoUm.runtimeconfig.dev.json
+C:\Users\milena.muchenski\Desktop\ProjetoUm\bin\Debug\netcoreapp3.1\ProjetoUm.dll
+C:\Users\milena.muchenski\Desktop\ProjetoUm\bin\Debug\netcoreapp3.1\ProjetoUm.pdb
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.RazorTargetAssemblyInfo.cache
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoUm.StaticWebAssets.Manifest.cache
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoUm.StaticWebAssets.xml
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.dll
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.pdb
+C:\Users\milena.muchenski\Desktop\ProjetoUm\obj\Debug\netcoreapp3.1\ProjetoUm.genruntimeconfig.cache
